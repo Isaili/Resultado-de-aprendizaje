@@ -158,13 +158,7 @@ Optimizado para datos de **ventas y comercio electrónico**:
 - 📊 **Área principal** para visualizaciones
 - 🎨 **Códigos de color** consistentes
 
-## 🤝 Contribuir
 
-1. Fork el repositorio
-2. Crea tu rama de feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
 
 ## 📄 Licencia
 
