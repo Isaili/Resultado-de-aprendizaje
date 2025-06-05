@@ -25,7 +25,7 @@ Un dashboard web interactivo para realizar análisis exploratorio de datos de fo
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/dashboard-analisis-exploratorio.git
+git clone https://github.com/Isaili/Resultado-de-aprendizaje.git
 cd dashboard-analisis-exploratorio
 
 # 2. Instalar dependencias
@@ -173,8 +173,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: tu-email@ejemplo.com
+- GitHub: [@isaili](https://github.com/isaili)
+- Email: isai123abel@gmail.com
 
 ## 🙏 Agradecimientos
 
